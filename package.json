@@ -1,0 +1,30 @@
+{
+  "name": "crowi-web",
+  "version": "1.0.0",
+  "description": "The website of Crowi",
+  "tags": [
+    "website"
+  ],
+  "author": "Sotaro KARASAWA <sotarok@crocos.co.jp>",
+  "contributors": [
+    "Keisuke SATO <riaf@me.com> (http://riaf.jp)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crocos/crowi.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-sass": "~0.13.1"
+  },
+  "license": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "scripts": {
+    "test": "//"
+  }
+}
